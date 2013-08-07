@@ -1,1 +1,1 @@
-add_lunch_combo cm_yuga-eng
+add_lunch_combo cos_yuga-eng
