@@ -7,6 +7,12 @@
   },
   {
     "project": "theminigame"
+    "repository": "android_device_sony_lagan"
+    "target_path": "device/sony/lagan"
+    "branch": "jellybean-mr1"
+  },
+  {
+    "project": "theminigame"
     "repository": "android_device_sony_common",
     "target_path": "device/sony/common",
     "branch": "jellybean-mr1"
