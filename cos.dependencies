@@ -1,68 +1,51 @@
 [
   {
-    "project": "theminigame"
-    "repository": "android_device_sony_yuga"
-    "target_path": "device/sony/yuga"
+    "remote": "github",
+    "account": "theminigame",
+    "repository": "android_device_sony_yuga",
+    "target_path": "device/sony/yuga",
     "branch": "jellybean-mr1"
   },
   {
-    "project": "theminigame"
-    "repository": "android_device_sony_lagan"
-    "target_path": "device/sony/lagan"
+    "remote": "github",
+    "account": "theminigame",
+    "repository": "proprietary_vendor_sony",
+    "target_path": "vendor/sony",
     "branch": "jellybean-mr1"
   },
   {
-    "project": "theminigame"
+    "remote": "github",
+    "account": "theminigame",
     "repository": "android_device_sony_common",
     "target_path": "device/sony/common",
     "branch": "jellybean-mr1"
   },
   {
-    "project": "theminigame"
+    "remote": "github",
+    "account": "theminigame",
     "repository": "android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common",
     "branch": "jellybean-mr1"
   },
   {
-    "project": "theminigame"
+    "remote": "github",
+    "account": "theminigame",
     "repository": "android_device_sony_fusion3-common",
     "target_path": "device/sony/fusion3-common",
     "branch": "jellybean=mr1"
   },
   {
-    "project": "theminigame"
+    "remote": "github",
+    "account": "theminigame",
     "repository": "android_kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064",
     "branch": "jellybean-mr1"
   },
   {
-    "project": "theminigame"
+    "remote": "github",
+    "account": "theminigame",
     "repository": "android_packages_apps_FMRadio",
     "target_path": "packages/apps/FmRadio",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "theminigame"
-    "repository": "android_hardware_sony_DASH",
-    "target_path": "hardware/sony/DASH",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "theminigame"
-    "repository": "android_vendor_sony_yuga",
-    "target_path": "vendor/sony/yuga",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "theminigame"
-    "repository": "qcom-common",
-    "target_path": "vendor/sony/qcom-common",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "theminigame"
-    "repository": "fusion3-common"
-    "target_path": "vendor/sony/fusion3-common"
     "branch": "jellybean-mr1"
   }
 ]
