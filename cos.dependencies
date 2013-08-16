@@ -47,5 +47,12 @@
     "repository": "android_packages_apps_FMRadio",
     "target_path": "packages/apps/FmRadio",
     "branch": "jellybean-mr1"
+  },
+  {
+    "remote": "github"
+    "account": "theminigame"
+    "repository": "Team-Win-Recovery-Project"
+    "target_path": "bootable/recovery"
+    "branch": "jellybean-mr1"
   }
 ]
